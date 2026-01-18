@@ -34,5 +34,26 @@ https://sakshimalkar.github.io/Restaurant-Website/
 
 ---
 
-## 📂 Project Structure
+## Brutal but useful advice
+
+- React + Bootstrap is **good**, but **common**
+- Your **booking logic** and **order flow** must be real
+- If it’s static, say so — don’t lie in interviews
+
+To make this **stand out**:
+- Add form validation  
+- Add booking confirmation state  
+- Add cart summary for orders  
+
+---
+
+## Want more?
+I can:
+- Upgrade this README to **product-company level**
+- Review your **React folder structure**
+- Help you explain this project in **interviews**
+- Add **backend integration plan**
+
+Tell me what you want next.
+
 
